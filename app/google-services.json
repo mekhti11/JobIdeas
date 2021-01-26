@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717596717502",
+    "project_id": "jobideas-ff355",
+    "storage_bucket": "jobideas-ff355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717596717502:android:45d4c69e7e66f2253fc9ef",
+        "android_client_info": {
+          "package_name": "io.jobideas.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717596717502-4oeev3p5kekka0etb25mcfu04emprg0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.jobideas.app",
+            "certificate_hash": "e505ea70c5f4863eb22d3fc696fbf5063b48271b"
+          }
+        },
+        {
+          "client_id": "717596717502-ulki16b64ot20m8u63rubijch23b6k8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysf5kMv7BOivqql-D4BeGIcElVwpwI0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717596717502-ulki16b64ot20m8u63rubijch23b6k8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
