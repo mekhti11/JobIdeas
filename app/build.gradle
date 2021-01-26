@@ -1,8 +1,8 @@
-apply plugin: 'com.android.application'
-
-apply plugin: 'kotlin-android'
-
-apply plugin: 'kotlin-android-extensions'
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+}
 
 android {
     compileSdkVersion 30
@@ -34,7 +34,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
     implementation platform('com.google.firebase:firebase-bom:26.3.0')
     implementation 'com.google.firebase:firebase-analytics-ktx'
-    implementation 'com.google.firebase:firebase-firestore-ktx'echo "# JobIdeas" >> README.md
+    implementation 'com.google.firebase:firebase-firestore-ktx'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 }
 apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
